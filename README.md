@@ -1,2 +1,2 @@
 # BECAME
-The official code of BECAME: BayEsian Continual Learning with Adaptive Model MErging
+The official code of paper "BECAME: BayEsian Continual Learning with Adaptive Model MErging"
